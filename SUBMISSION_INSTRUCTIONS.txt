@@ -1,0 +1,6 @@
+1. Open MSCS532_Assignment2_Report.docx. Replace [Enter Student ID] on title page.
+2. Create a PUBLIC GitHub repository named MSCS532_Assignment2.
+3. Push the supplied Python files (and optional metrics/chart); the repository is NOT created by this package.
+4. Add the actual repository URL to the report or online submission.
+5. If required to report measurements from your own hardware, rerun `python benchmark.py` and replace the benchmark table/results with your measurements.
+6. Submit the DOCX report and Python source according to your online portal instructions.

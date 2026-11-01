@@ -1,0 +1,7 @@
+Python: 3.13.5
+Platform: Linux x86_64
+Sizes: (500, 2000, 4000)
+Repeats: 3
+Random seed: 532
+Times: median of repeats in milliseconds; input copying excluded.
+Memory: tracemalloc peak of traced Python allocations during sorting, excluding preexisting input array; not total process RAM.
