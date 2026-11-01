@@ -1,5 +1,5 @@
-Python: 3.13.5
-Platform: Linux x86_64
+Python: 3.12.14
+Platform: Windows AMD64
 Sizes: (500, 2000, 4000)
 Repeats: 3
 Random seed: 532

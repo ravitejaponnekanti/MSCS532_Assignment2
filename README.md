@@ -18,7 +18,13 @@ This pivot rule intentionally demonstrates Quick Sort's worst case on pre-sorted
 
 ## GitHub
 
-Create a **public** repository named `MSCS532_Assignment2`, push these source files, and replace the repository URL placeholder in your written report before submitting.
+Repository: https://github.com/ravitejaponnekanti/MSCS532_Assignment2
+
+Submit the written report and implementation code through the course portal.
+The report must contain your student ID and exact course title before submission.
+The current benchmark CSV, environment information, and chart were regenerated
+on Windows with Python 3.12.14. The report summarizes the largest input size;
+the CSV includes all 18 measurements. The chart uses a logarithmic time axis.
 
 Suggested commits:
 
